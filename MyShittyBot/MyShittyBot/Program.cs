@@ -8,7 +8,7 @@ namespace MyShittyBot
         {
             Bot shit = new Bot();
 
-            shit.Connect(true);
+            shit.Connect(false);
 
             Console.ReadLine();
 

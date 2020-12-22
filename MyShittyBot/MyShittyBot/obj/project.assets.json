@@ -3314,11 +3314,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\dev\\C#\\MyShittyBot\\MyShittyBot\\MyShittyBot\\MyShittyBot\\MyShittyBot.csproj",
+      "projectUniqueName": "E:\\dev\\C#\\API\\TwitchBotCS\\MyShittyBot\\MyShittyBot\\MyShittyBot.csproj",
       "projectName": "MyShittyBot",
-      "projectPath": "D:\\dev\\C#\\MyShittyBot\\MyShittyBot\\MyShittyBot\\MyShittyBot\\MyShittyBot.csproj",
+      "projectPath": "E:\\dev\\C#\\API\\TwitchBotCS\\MyShittyBot\\MyShittyBot\\MyShittyBot.csproj",
       "packagesPath": "C:\\Users\\HiImMike\\.nuget\\packages\\",
-      "outputPath": "D:\\dev\\C#\\MyShittyBot\\MyShittyBot\\MyShittyBot\\MyShittyBot\\obj\\",
+      "outputPath": "E:\\dev\\C#\\API\\TwitchBotCS\\MyShittyBot\\MyShittyBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

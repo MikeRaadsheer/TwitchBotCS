@@ -61,7 +61,7 @@ namespace MyShittyBot {
         }
         
         /// <summary>
-        ///   Looks up a localized string similar to Your Token Here.
+        ///   Looks up a localized string similar to oauth:0tvpz5hkyhfklctuqgxb486gqh6nt5.
         /// </summary>
         internal static string BotToken {
             get {
